@@ -3,4 +3,4 @@
 
 An interesting idea I had that was simple to create but useless for anything other than entertainment.
 
-<div style="text-align: center"><img src="run.png"></div>
+![](run.png)
